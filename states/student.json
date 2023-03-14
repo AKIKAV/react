@@ -1,0 +1,56 @@
+[
+    {
+        "studentName" : "Akash DT",
+        "age" : "25",
+        "yop" : "2020",
+        "dob" : "03-02-1998",
+        "branch" : "Mechanical",
+        "native" : "Chickmaglur",
+        "phNo" : [9164768811, 9036637460]
+    },
+    {
+        "studentName" : "Rakshith",
+        "age" : "25",
+        "yop" : "2022",
+        "dob" : "03-06-1998",
+        "branch" : "Bsc",
+        "native" : "Tumkur",
+        "phNo" : [9087654321,8905674321]
+    },
+    {
+        "studentName" : "Kavya",
+        "age" : "24",
+        "yop" : "2020",
+        "dob" : "31-03-1999",
+        "branch" : "Electronics and communication",
+        "native" : "Harihar",
+        "phNo" : [9087654321,8905690321]
+    },
+    {
+        "studentName" : "Abhijith DS",
+        "age" : "26",
+        "yop" : "2020",
+        "dob" : "04-08-1997",
+        "branch" : "Mechanical",
+        "native" : " Chickmaglur",
+        "phNo" : [9078654321,8909774321]
+    },
+    {
+        "studentName" : "Rocky",
+        "age" : "24",
+        "yop" : "2020",
+        "dob" : "05-03-1999",
+        "branch" : "Mechanical",
+        "native" : "Tumkur",
+        "phNo" : [9087664321,89056788321]
+    },
+    {
+        "studentName" : "vinay",
+        "age" : "26",
+        "yop" : "2019",
+        "dob" : "27-10-1996",
+        "branch" : "chemishist",
+        "native" : "Bangalore",
+        "phNo" : [9087654321,8905674321]
+    }
+]
