@@ -1,0 +1,14 @@
+.main{
+    text-align: center;
+}
+.block button{
+    justify-content: space-around;
+    background-color: rgba(232, 104, 45, 0.639);
+    border-radius: 20px;
+    font-size: 40px;
+    
+    
+}
+.main h1{
+    font-size: 100px;
+}
